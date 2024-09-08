@@ -1,6 +1,6 @@
-# Blog de gatos
+# Cat blog
 
-Desafio do Explorer da Rockeatseat para aplicar o grid, responsividade e animações.
+Rockeatseat Explorer challenge to apply the grid, responsiveness and animations.
 
 - Desktop
 - Mobile
